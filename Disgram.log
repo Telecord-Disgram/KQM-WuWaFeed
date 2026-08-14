@@ -2800,3 +2800,66 @@ https://t.me/Sleep_Leaks/828
 2026-08-14 00:02:00,771 [main] INFO: Successfully generated new GitHub App installation token
 2026-08-14 00:02:00,779 [main] INFO: Git authentication configured for repository: Telecord-Disgram/KQM-WuWaFeed
 2026-08-14 00:02:02,689 [main] INFO: Log files to be committed: Disgram.log
+2026-08-14 05:12:05,743 [main] INFO: Successfully pulled latest repository state
+2026-08-14 05:12:05,744 [main] INFO: Repository updated with latest changes
+2026-08-14 05:12:05,745 [main] INFO: Chunked 2 channels into 2 worker groups
+2026-08-14 05:12:05,749 [main] INFO: Starting Waitress WSGI server on port 10000...
+2026-08-14 05:12:05,749 [main] INFO: Disgram bot is running with health check endpoint.
+2026-08-14 05:12:05,750 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-08-14 05:12:06,449 [main] INFO: Serving on http://0.0.0.0:10000
+2026-08-14 05:12:10,150 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-08-14 05:12:12,352 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-08-14 05:12:16,246 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-08-14 05:12:20,548 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-08-14 05:12:27,361 [main] INFO: cryptg detected, it will be used for encryption
+2026-08-14 05:12:30,162 [main] INFO: Connecting to 91.108.56.190:443/TcpFull...
+2026-08-14 05:12:30,165 [main] INFO: Connection to 91.108.56.190:443/TcpFull complete!
+2026-08-14 05:12:30,230 [main] INFO: Telethon connected successfully to DC 5 at 91.108.56.190
+2026-08-14 05:17:20,551 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-08-14 05:17:23,352 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-08-14 05:17:25,454 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-08-14 05:17:28,243 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-08-14 05:17:30,250 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-08-14 05:22:30,251 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-08-14 05:22:33,355 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-08-14 05:22:36,244 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-08-14 05:22:39,154 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-08-14 05:22:41,451 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-08-14 05:27:41,451 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-08-14 05:27:44,643 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-08-14 05:27:46,546 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-08-14 05:27:49,742 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-08-14 05:27:51,952 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-08-14 05:32:51,953 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-08-14 05:32:54,753 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-08-14 05:32:56,951 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-08-14 05:33:00,142 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-08-14 05:33:02,354 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-08-14 05:38:02,355 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-08-14 05:38:05,244 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-08-14 05:38:07,046 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-08-14 05:38:09,951 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-08-14 05:38:11,943 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-08-14 05:43:11,943 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-08-14 05:43:14,947 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-08-14 05:43:16,843 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-08-14 05:43:19,760 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-08-14 05:43:22,548 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-08-14 05:48:22,549 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-08-14 05:48:25,251 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-08-14 05:48:27,944 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-08-14 05:48:31,242 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-08-14 05:48:33,244 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-08-14 05:53:33,245 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-08-14 05:53:35,950 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-08-14 05:53:37,946 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-08-14 05:53:40,753 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-08-14 05:53:42,948 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-08-14 05:58:42,951 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-08-14 05:58:46,447 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-08-14 05:58:48,745 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-08-14 05:58:51,941 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-08-14 05:58:54,147 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-08-14 06:02:04,257 [main] INFO: Background commit triggered by scheduled, committing log changes...
+2026-08-14 06:02:04,268 [main] INFO: Git authentication configured for repository: Telecord-Disgram/KQM-WuWaFeed
+2026-08-14 06:02:06,376 [main] INFO: Log files to be committed: Disgram.log
