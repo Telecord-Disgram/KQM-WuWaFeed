@@ -24272,3 +24272,72 @@ https://t.me/waves_wuthering/12923
 2026-09-25 06:01:54,325 [main] INFO: Successfully generated new GitHub App installation token
 2026-09-25 06:01:54,333 [main] INFO: Git authentication configured for repository: Telecord-Disgram/KQM-WuWaFeed
 2026-09-25 06:01:56,498 [main] INFO: Log files to be committed: Disgram.log
+2026-09-25 11:21:54,229 [main] INFO: Successfully pulled latest repository state
+2026-09-25 11:21:54,230 [main] INFO: Repository updated with latest changes
+2026-09-25 11:21:54,234 [main] INFO: Chunked 2 channels into 2 worker groups
+2026-09-25 11:21:54,235 [main] INFO: Starting Waitress WSGI server on port 10000...
+2026-09-25 11:21:54,235 [main] INFO: Disgram bot is running with health check endpoint.
+2026-09-25 11:21:54,236 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-09-25 11:21:54,530 [main] INFO: Serving on http://0.0.0.0:10000
+2026-09-25 11:21:59,438 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-09-25 11:22:02,533 [worker-0] INFO: New message sent: https://t.me/waves_wuthering/13137
+2026-09-25 11:22:19,740 [main] INFO: cryptg detected, it will be used for encryption
+2026-09-25 11:22:19,829 [worker-0] INFO: cryptg detected, it will be used for encryption
+2026-09-25 11:22:23,329 [main] WARNING: Task queue depth is 1
+2026-09-25 11:22:23,828 [worker-0] INFO: Sending message to Discord: https://t.me/waves_wuthering/13137
+2026-09-25 11:22:24,833 [worker-0] INFO: Message sent successfully.
+2026-09-25 11:22:25,137 [main] INFO: Connecting to 91.108.56.190:443/TcpFull...
+2026-09-25 11:22:25,230 [main] INFO: Connection to 91.108.56.190:443/TcpFull complete!
+2026-09-25 11:22:25,439 [main] INFO: Telethon connected successfully to DC 5 at 91.108.56.190
+2026-09-25 11:22:28,129 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-09-25 11:22:31,238 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-09-25 11:22:33,329 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-09-25 11:27:33,335 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-09-25 11:27:36,935 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-09-25 11:27:40,530 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-09-25 11:27:43,748 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-09-25 11:27:45,932 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-09-25 11:32:45,933 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-09-25 11:32:49,330 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-09-25 11:32:53,532 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-09-25 11:32:56,535 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-09-25 11:32:59,240 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-09-25 11:37:59,241 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-09-25 11:38:02,237 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-09-25 11:38:06,537 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-09-25 11:38:09,833 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-09-25 11:38:12,334 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-09-25 11:43:12,335 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-09-25 11:43:15,430 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-09-25 11:43:19,840 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-09-25 11:43:22,834 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-09-25 11:43:24,935 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-09-25 11:48:24,936 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-09-25 11:48:27,833 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-09-25 11:48:31,343 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-09-25 11:48:34,837 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-09-25 11:48:36,942 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-09-25 11:52:25,534 [main] INFO: Got difference for channel 1695568528 updates
+2026-09-25 11:53:36,942 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-09-25 11:53:40,229 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-09-25 11:53:42,830 [worker-0] INFO: New message sent: https://t.me/waves_wuthering/13138
+2026-09-25 11:53:44,229 [worker-0] INFO: cryptg detected, it will be used for encryption
+2026-09-25 11:53:44,641 [worker-0] INFO: Connecting to 91.108.56.190:443/TcpFull...
+2026-09-25 11:53:44,644 [worker-0] INFO: Connection to 91.108.56.190:443/TcpFull complete!
+2026-09-25 11:53:44,707 [worker-0] INFO: Telethon connected successfully to DC 5 at 91.108.56.190
+2026-09-25 11:53:44,759 [worker-0] INFO: Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-09-25 11:53:44,778 [worker-0] INFO: Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-09-25 11:53:44,793 [worker-0] INFO: Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-09-25 11:53:44,810 [worker-0] INFO: Sending message to Discord: https://t.me/waves_wuthering/13138
+2026-09-25 11:53:46,064 [worker-0] INFO: Message sent successfully.
+2026-09-25 11:53:48,237 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-09-25 11:53:51,236 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-09-25 11:53:53,643 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-09-25 11:58:53,644 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-09-25 11:58:56,530 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-09-25 11:59:00,634 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-09-25 11:59:03,743 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-09-25 11:59:06,140 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-09-25 12:01:52,540 [main] INFO: Background commit triggered by scheduled, committing log changes...
+2026-09-25 12:01:52,631 [main] INFO: Git authentication configured for repository: Telecord-Disgram/KQM-WuWaFeed
+2026-09-25 12:01:54,741 [main] INFO: Log files to be committed: Disgram.log
