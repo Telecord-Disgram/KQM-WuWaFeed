@@ -32908,3 +32908,369 @@ https://t.me/Sleep_Leaks/850
 2026-11-10 06:02:38,709 [main] INFO: Successfully generated new GitHub App installation token
 2026-11-10 06:02:38,724 [main] INFO: Git authentication configured for repository: Telecord-Disgram/KQM-WuWaFeed
 2026-11-10 06:02:40,940 [main] INFO: Log files to be committed: Disgram.log
+2026-11-10 06:03:37,791 [main] INFO: Successfully pulled latest repository state
+2026-11-10 06:03:37,791 [main] INFO: Repository updated with latest changes
+2026-11-10 06:03:37,799 [main] INFO: Chunked 2 channels into 2 worker groups
+2026-11-10 06:03:37,881 [main] INFO: Starting Waitress WSGI server on port 10000...
+2026-11-10 06:03:37,884 [main] INFO: Disgram bot is running with health check endpoint.
+2026-11-10 06:03:37,885 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 06:03:37,986 [main] INFO: Serving on http://0.0.0.0:10000
+2026-11-10 06:03:49,383 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 06:03:49,391 [main] INFO: cryptg detected, it will be used for encryption
+2026-11-10 06:03:52,585 [main] INFO: Connecting to 91.108.56.190:443/TcpFull...
+2026-11-10 06:03:52,790 [main] INFO: Connection to 91.108.56.190:443/TcpFull complete!
+2026-11-10 06:03:53,111 [main] INFO: Telethon connected successfully to DC 5 at 91.108.56.190
+2026-11-10 06:03:55,597 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 06:03:58,787 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 06:04:02,291 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 06:09:02,292 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 06:09:05,799 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 06:09:10,992 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 06:09:14,391 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 06:09:18,190 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 06:14:18,191 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 06:14:21,395 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 06:14:26,597 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 06:14:30,384 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 06:14:33,903 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 06:19:33,904 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 06:19:37,198 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 06:19:41,887 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 06:19:45,191 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 06:19:49,492 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 06:24:49,492 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 06:24:52,388 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 06:24:56,293 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 06:24:59,390 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 06:25:03,581 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 06:30:03,582 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 06:30:06,583 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 06:30:11,392 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 06:30:14,787 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 06:30:18,895 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 06:35:18,896 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 06:35:21,984 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 06:35:26,997 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 06:35:30,286 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 06:35:33,692 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 06:40:33,693 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 06:40:36,886 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 06:40:41,696 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 06:40:45,184 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 06:40:48,893 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 06:45:48,894 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 06:45:52,287 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 06:45:57,599 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 06:46:01,095 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 06:46:04,991 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 06:51:04,992 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 06:51:08,419 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 06:51:13,201 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 06:51:16,596 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 06:51:20,890 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 06:56:20,891 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 06:56:24,086 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 06:56:29,096 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 06:56:32,484 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 06:56:36,392 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 07:01:36,393 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 07:01:40,004 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 07:01:44,697 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 07:01:48,299 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 07:01:52,297 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 07:06:52,298 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 07:06:55,692 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 07:06:59,995 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 07:07:03,491 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 07:07:06,803 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 07:12:06,804 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 07:12:10,393 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 07:12:14,705 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 07:12:18,183 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 07:12:21,896 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 07:17:21,897 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 07:17:25,191 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 07:17:29,288 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 07:17:32,484 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 07:17:36,394 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 07:22:36,395 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 07:22:40,300 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 07:22:45,495 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 07:22:49,193 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 07:22:53,193 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 07:27:53,194 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 07:27:56,388 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 07:28:00,998 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 07:28:04,797 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 07:28:10,101 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 07:33:10,102 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 07:33:13,287 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 07:33:17,693 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 07:33:20,689 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 07:33:24,893 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 07:38:24,894 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 07:38:28,784 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 07:38:33,301 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 07:38:36,384 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 07:38:40,604 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 07:43:40,605 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 07:43:43,782 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 07:43:48,701 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 07:43:51,791 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 07:43:56,310 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 07:48:56,311 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 07:48:59,087 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 07:49:04,100 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 07:49:07,783 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 07:49:11,381 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 07:54:11,382 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 07:54:14,793 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 07:54:19,591 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 07:54:23,392 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 07:54:26,998 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 07:59:26,999 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 07:59:30,382 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 07:59:35,799 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 07:59:39,189 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 07:59:43,781 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 08:04:43,782 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 08:04:47,591 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 08:04:52,881 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 08:04:57,196 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 08:05:02,598 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 08:10:02,599 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 08:10:05,594 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 08:10:10,781 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 08:10:14,194 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 08:10:19,581 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 08:15:19,582 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 08:15:23,383 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 08:15:29,092 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 08:15:32,585 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 08:15:35,902 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 08:20:35,903 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 08:20:39,182 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 08:20:44,590 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 08:20:47,687 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 08:20:51,389 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 08:25:51,390 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 08:25:54,893 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 08:25:59,297 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 08:26:02,392 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 08:26:06,393 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 08:31:06,394 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 08:31:09,681 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 08:31:14,995 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 08:31:18,783 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 08:31:23,596 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 08:36:23,597 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 08:36:27,385 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 08:36:31,901 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 08:36:35,490 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 08:36:39,495 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 08:41:39,496 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 08:41:42,983 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 08:41:48,398 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 08:41:51,990 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 08:41:55,496 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 08:46:55,581 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 08:46:58,484 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 08:47:02,981 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 08:47:06,390 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 08:47:11,081 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 08:52:11,082 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 08:52:14,286 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 08:52:19,990 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 08:52:23,793 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 08:52:27,502 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 08:57:27,504 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 08:57:31,089 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 08:57:35,596 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 08:57:38,485 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 08:57:41,798 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 09:02:41,881 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 09:02:45,985 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 09:02:50,799 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 09:02:54,386 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 09:02:58,097 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 09:07:58,098 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 09:08:01,394 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 09:08:06,094 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 09:08:09,586 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 09:08:14,199 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 09:13:14,200 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 09:13:17,783 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 09:13:22,793 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 09:13:26,187 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 09:13:29,994 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 09:18:29,995 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 09:18:33,288 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 09:18:37,803 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 09:18:41,285 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 09:18:44,691 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 09:23:44,692 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 09:23:47,582 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 09:23:52,381 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 09:23:55,896 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 09:23:58,685 [worker-1] INFO: New message sent: https://t.me/Sleep_Leaks/879
+2026-11-10 09:24:00,386 [worker-1] INFO: cryptg detected, it will be used for encryption
+2026-11-10 09:24:00,903 [worker-1] INFO: Connecting to 91.108.56.190:443/TcpFull...
+2026-11-10 09:24:00,907 [worker-1] INFO: Connection to 91.108.56.190:443/TcpFull complete!
+2026-11-10 09:24:01,034 [worker-1] INFO: Telethon connected successfully to DC 5 at 91.108.56.190
+2026-11-10 09:24:01,300 [worker-1] INFO: Sending message to Discord: https://t.me/Sleep_Leaks/879
+2026-11-10 09:24:02,253 [worker-1] INFO: Message sent successfully.
+2026-11-10 09:24:04,781 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 09:29:04,789 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 09:29:08,494 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 09:29:12,695 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 09:29:16,087 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 09:29:19,992 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 09:34:19,993 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 09:34:22,984 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 09:34:27,706 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 09:34:31,290 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 09:34:34,998 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 09:39:34,998 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 09:39:38,196 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 09:39:42,589 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 09:39:46,091 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 09:39:49,192 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 09:44:49,192 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 09:44:52,292 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 09:44:57,003 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 09:45:00,390 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 09:45:04,798 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 09:50:04,799 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 09:50:07,889 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 09:50:11,993 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 09:50:15,698 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 09:50:19,495 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 09:55:19,496 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 09:55:22,686 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 09:55:27,392 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 09:55:31,181 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 09:55:34,481 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 10:00:34,482 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 10:00:37,695 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 10:00:42,600 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 10:00:45,995 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 10:00:50,094 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 10:05:50,095 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 10:05:53,290 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 10:05:57,489 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 10:06:00,594 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 10:06:04,682 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 10:11:04,683 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 10:11:08,286 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 10:11:13,987 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 10:11:17,387 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 10:11:20,591 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 10:16:20,592 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 10:16:24,191 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 10:16:28,196 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 10:16:31,393 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 10:16:34,896 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 10:21:34,896 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 10:21:38,086 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 10:21:42,291 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 10:21:45,983 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 10:21:49,289 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 10:26:49,290 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 10:26:52,595 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 10:26:57,481 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 10:27:01,082 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 10:27:05,194 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 10:32:05,195 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 10:32:08,090 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 10:32:12,401 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 10:32:15,788 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 10:32:19,990 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 10:37:19,991 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 10:37:23,094 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 10:37:27,795 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 10:37:31,590 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 10:37:35,297 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 10:42:35,298 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 10:42:38,683 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 10:42:42,789 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 10:42:45,785 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 10:42:49,294 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 10:47:49,381 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 10:47:52,487 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 10:47:57,002 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 10:48:00,791 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 10:48:04,389 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 10:53:04,389 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 10:53:07,886 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 10:53:12,399 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 10:53:15,983 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 10:53:19,697 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 10:58:19,782 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 10:58:22,997 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 10:58:27,681 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 10:58:30,992 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 10:58:35,898 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 11:03:35,899 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 11:03:39,492 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 11:03:44,194 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 11:03:47,694 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 11:03:51,592 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 11:08:51,593 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 11:08:54,883 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 11:08:59,288 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 11:09:02,887 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 11:09:07,198 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 11:14:07,199 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 11:14:10,491 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 11:14:15,092 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 11:14:18,392 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 11:14:21,494 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 11:19:21,495 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 11:19:24,691 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 11:19:29,191 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 11:19:32,891 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 11:19:36,502 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 11:24:36,502 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 11:24:39,982 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 11:24:43,901 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 11:24:47,183 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 11:24:50,493 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 11:29:50,493 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 11:29:54,296 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 11:29:59,200 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 11:30:08,510 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 11:30:12,944 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 11:35:12,945 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 11:35:16,083 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 11:35:20,488 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 11:35:23,592 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 11:35:27,490 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 11:40:27,491 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 11:40:30,795 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 11:40:35,394 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 11:40:38,786 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 11:40:42,598 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 11:45:42,598 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 11:45:45,683 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 11:45:50,200 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 11:45:53,988 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 11:45:57,100 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 11:50:57,101 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 11:51:00,485 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 11:51:05,700 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 11:51:09,082 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 11:51:13,395 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 11:56:13,396 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 11:56:16,887 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 11:56:21,294 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 11:56:24,484 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 11:56:27,900 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 12:01:27,901 [main] INFO: Spawning worker 0 for channels: waves_wuthering
+2026-11-10 12:01:30,993 [worker-0] INFO: Scraping messages from Telegram channel: waves_wuthering (Attempt 1)
+2026-11-10 12:01:35,601 [main] INFO: Spawning worker 1 for channels: Sleep_Leaks
+2026-11-10 12:01:39,285 [worker-1] INFO: Scraping messages from Telegram channel: Sleep_Leaks (Attempt 1)
+2026-11-10 12:01:43,399 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-11-10 12:03:35,931 [main] INFO: Background commit triggered by scheduled, committing log changes...
+2026-11-10 12:03:36,680 [main] INFO: Successfully generated new GitHub App installation token
+2026-11-10 12:03:36,690 [main] INFO: Git authentication configured for repository: Telecord-Disgram/KQM-WuWaFeed
+2026-11-10 12:03:38,984 [main] INFO: Log files to be committed: Disgram.log
